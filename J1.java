@@ -6,6 +6,7 @@ public class J1{
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
 		int s1,s2;
+		System.out.print("密碼輸入測試:");
 		System.out.print("請輸入密碼:");
 		s1=sc.nextInt();
 		int count=0;
